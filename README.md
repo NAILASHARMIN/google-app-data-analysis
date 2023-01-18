@@ -17,7 +17,9 @@ My approch to the project can be divided into below parts:
 
 I have created two seperate walkthrough videos explaining Module 1 where I solve the SQL Queries and Module 2 where I explain the tableau dashboard. Feel
 free to wathch them here:
+
 Module 1 Walkthrough: https://youtu.be/gRU2Vim29H8
+
 Module 2 Walkthrough: https://youtu.be/w-F-lXHqK3Q
 
 Also you can checkout the dashboard here: https://rb.gy/lkyjf0
