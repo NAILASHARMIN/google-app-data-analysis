@@ -4,6 +4,7 @@ This is a data analysis and visualization project covering a real-world dataset 
 This project aims for cleaning the dataset, analyze it and extract insights, and finally visualizing it from a business stakeholder perspective. The project consists of 2 modules;
 
 Module 1: Pre-processing, Analyzing data using Python and SQL.
+
 Module 2: Visualizing data using Power bi.
 
 My approch to the project can be divided into below parts:
